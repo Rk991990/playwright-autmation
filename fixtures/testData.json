@@ -1,0 +1,15 @@
+
+
+{
+
+  "validUsername":"admin",
+  "validPassword":"admin123",
+  "invalidUsernmae":"admon",
+  "invaliPassword":"admin1234",
+  "employee":{
+ "first_name":"admin12",
+  "last_name":"admin12",
+  "middle_name":"admin12",
+  "emp_id":"0001239"
+  }
+}
